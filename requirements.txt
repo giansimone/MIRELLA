@@ -1,6 +1,7 @@
 matplotlib 
 notebook 
 numpy 
+openpyxl
 pandas
 scipy 
 seaborn 
