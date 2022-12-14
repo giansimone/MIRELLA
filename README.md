@@ -1,7 +1,7 @@
 # MIRELLA
 `MIRELLA` is the repository that contains the Python code that supports the findings of the study: 'MIRELLA:  A mathematical model explains the effect of miRNA (MI) REgulation on intracellular resource aLLocAtion.'
 
-# Repo Contents
+# Repo Contents 
 + [Notebooks](./notebooks/)
 + [Docs](./docs/)
 
